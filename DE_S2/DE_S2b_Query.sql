@@ -1,1 +1,0 @@
-select * from calls_filtered
